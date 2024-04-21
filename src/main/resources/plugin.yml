@@ -1,0 +1,7 @@
+name: EmailWhitelist
+version: '${project.version}'
+main: org.pykefox.p4.emailwhitelist.EmailWhitelist
+api-version: '1.20'
+load: STARTUP
+authors: [WhitePhosphor, ❤]
+description: A light-weighted whitelist plugin for Minecraft servers.
